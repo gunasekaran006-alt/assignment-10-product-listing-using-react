@@ -9,7 +9,6 @@ This project was built as an assignment for the **Entri Elevate - Full Stack Dev
 *(Below is a preview of the Product Listing App)*
 
 ![Product Listing App Demo](./src/assets/demo.jpg)
-![Product Listing App Demo vedio](./src/assets/demo%20vedio.mp4)
 
 > **Note:** The UI is fully responsive and adjusts seamlessly across mobile, tablet, and desktop views.
 
