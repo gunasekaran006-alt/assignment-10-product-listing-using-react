@@ -1,0 +1,50 @@
+export const productsData = [
+  {
+    id: 1,
+    name: 'Wireless Mouse',
+    price: 150,
+    category: 'Electronics',
+    rating: 4.5,
+    image: 'https://i.pinimg.com/1200x/a0/26/07/a02607e75ead6707c7f456d077818eea.jpg',
+  },
+  {
+    id: 2,
+    name: 'Mechanical Keyboard',
+    price: 450,
+    category: 'Electronics',
+    rating: 4.8,
+    image: 'https://i.pinimg.com/1200x/59/a3/84/59a384f384d15efcb8f7ba37fb72806a.jpg',
+  },
+  {
+    id: 3,
+    name: 'Running Shoes',
+    price: 200,
+    category: 'Fashion',
+    rating: 4.0,
+    image: 'https://i.pinimg.com/1200x/a1/ef/19/a1ef198bf3cf4e7c7b80a6d593b7df25.jpg',
+  },
+  {
+    id: 4,
+    name: 'Cotton T-Shirt',
+    price: 100,
+    category: 'Fashion',
+    rating: 3.5,
+    image: 'https://i.pinimg.com/736x/84/05/a4/8405a47d07d7e25081ce46e469d20f1a.jpg',
+  },
+  {
+    id: 5,
+    name: 'Coffee Mug',
+    price: 50,
+    category: 'Home & Kitchen',
+    rating: 4.2,
+    image: 'https://i.pinimg.com/736x/28/ec/0d/28ec0d27113005033caddb1cf849d869.jpg',
+  },
+  {
+    id: 6,
+    name: 'Gaming Headset',
+    price: 300,
+    category: 'Electronics',
+    rating: 4.6,
+    image: 'https://i.pinimg.com/736x/a4/e9/cc/a4e9ccdeec965fdecaaf35e8e39ac3dd.jpg',
+  }
+];
